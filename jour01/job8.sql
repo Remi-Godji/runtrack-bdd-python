@@ -1,2 +1,2 @@
-SELECT * FROM students
+SELECT * FROM etudiant
 WHERE age < 18;
